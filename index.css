@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  padding: 10rem 25rem;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td,
+tr {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+caption {
+  padding: 25px;
+}
